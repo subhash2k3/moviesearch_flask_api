@@ -1,0 +1,415 @@
+http://127.0.0.1:5000/movies?year=2022&genre=28&rating=10
+
+[
+    {
+        "cast": [
+            "Shouhei Hashimoto",
+            "Yuki Torigoe",
+            "Rui Tabuchi",
+            "Masashi Taniguchi",
+            "Ayaka Konno",
+            "Teruma",
+            "Nagae Ryoki",
+            "Kosuke Kuwano",
+            "Hitoshi Horinouchi",
+            "Ao Hirokawa",
+            "Akari Saito",
+            "Sakina Kuwae",
+            "Keisuke Ueda",
+            "Mitsu Murata",
+            "Yuta Kishimoto",
+            "Keisuke Minami",
+            "Hirofumi Araki"
+        ],
+        "plot": "Set in an alternative world of Bungo Stray Dogs, this \"what-if\" story imagines if Atsushi Nakajima was in the Port Mafia and Ryūnosuke Akutagawa was in the Armed Detective Agency, instead of vice-versa. The story follows Ryūnosuke Akutagawa, who vows revenge on a man dressed in black in order to rescue his sister. However, as he is about to starve to death, a man from the Armed Detective Agency appears.",
+        "rating": 10,
+        "release_year": "2022",
+        "title": "Bungo Stray Dogs the Movie: BEAST"
+    },
+    {
+        "cast": [
+            "Sarah T. Cohen",
+            "Sian Altman",
+            "Erina Mashate",
+            "Andrew Rolfe",
+            "Giedre Jackyte",
+            "Arthur Boan",
+            "Heather Jackson",
+            "Brendan Jones",
+            "George Nettleton",
+            "Peter Jeffries",
+            "Peter Jeffries"
+        ],
+        "plot": "A group of activists break into a government facility in hope to expose what they're doing.. Only to realise they are in more danger than they could of ever imagined when a wild beast breaks free.",
+        "rating": 10,
+        "release_year": "2022",
+        "title": "The Rise of the Beast"
+    },
+    {
+        "cast": [
+            "Hana Hishikawa",
+            "Risa Shimizu",
+            "Yuka Iguchi",
+            "Ai Kayano",
+            "Natsuki Hanae",
+            "Natsumi Hioka",
+            "Natsumi Takamori",
+            "Tomoaki Maeno",
+            "Tomoe Hanba",
+            "Yuma Uchida",
+            "Sayaka Kinoshita",
+            "Chie Nakamura",
+            "Yoshiko Miyazaki",
+            "Hikaru Ikuta",
+            "Hirosato Amano",
+            "Ikumi Hasegawa",
+            "Kouichi Souma",
+            "Mariko Nagai",
+            "Miyuri Shimabukuro",
+            "Rie Kawamura",
+            "Sayaka Kinoshita",
+            "Soshiro Hori",
+            "Yoshihito Sasaki",
+            "Yuuki Urushiyama"
+        ],
+        "plot": "",
+        "rating": 10,
+        "release_year": "2022",
+        "title": "Delicious Party♡Precure Movie: Dreaming♡Children's Lunch!"
+    },
+    {
+        "cast": [
+            "Jack De Sena",
+            "Sean Schemmel",
+            "Stephanie Sheh",
+            "Dave B. Mitchell",
+            "David Chan",
+            "Victoria Grace",
+            "Billy Kametz",
+            "Johnny Yong Bosch",
+            "Kyle McCarley"
+        ],
+        "plot": "The Lady Bone Demon is close to complete her final plan to achieve her destiny! With the heroes scattered, things look grim for MK and his friends. It's up to him to reunite the team and take the fight back to the Lady Bone Demon. With the fate of the world in the balance, the heroes will need to embrace their destiny if they're going to stand a chance to save the universe!",
+        "rating": 10,
+        "release_year": "2022",
+        "title": "LEGO Monkie Kid: Embrace Your Destiny"
+    },
+    {
+        "cast": [
+            "Jeong Hye-won",
+            "Lee Myeongho",
+            "Park Rina",
+            "Lee Ji-hyun"
+        ],
+        "plot": "The new talent show \"Moon Queen\" gathers bright teams to reveal the most talented participants. To win, you need to collect a million likes by performing in teams on various stages. The most prominent is the ambitious Hera, whose mother has already received the title of Moon Queen. Hera is an excellent dancer and singer, but does not get along well with the band members. Can she succeed or will the title go to another contestant?",
+        "rating": 10,
+        "release_year": "2019",
+        "title": "Shining Star: The Birth of New Luna-Queen"
+    },
+    {
+        "cast": [
+            "Zizan Razak",
+            "Elizabeth Tan",
+            "Johan",
+            "Maya Karin",
+            "Datuk AC Mizal",
+            "Shuib Sepah",
+            "Kazar Saisi",
+            "Ozlynn Wati",
+            "Tania Hudson",
+            "Wak Doyok",
+            "Daniella Sya",
+            "Khir Rahman",
+            "Siraj Alsagoff",
+            "Hairul Azreen",
+            "Dato' Yusof Haslam"
+        ],
+        "plot": "The movie \"Abang Long Fadil 3\" tells  about the life of Fadil who received an offer from “NSS” (NATIONAL Secret Service)  to be a professional spy in bringing  down a largest group of thug  ‘SSO” (Secret Society Organization) who led by “Chow Han” which with malicious intent to conquer the country of the archipelago. Agent Fadil is now cooperating with Agent Alice to bringing  down the Chow Han's evil conspiracy, but things are getting  complicated when “Yana” Fadil's ex-girlfriend interrupted NSS mission. Chow Han realizes that he has been spied on by the NSS, so he sends an assassin “King Cobra” to eliminate Fadil and Alice. Can Fadil complete this mission to save the country? Everything will be answered in \"Abang Long Fadil 3\"",
+        "rating": 10,
+        "release_year": "2022",
+        "title": "Abang Long Fadil 3"
+    },
+    {
+        "cast": [
+            "Meto Ege",
+            "Yasin Kavlak",
+            "Assef Safahi",
+            "Daniel Klatt",
+            "Nevzat Toka",
+            "Thanunjan Thavendran",
+            "Erdem Yilmaz",
+            "Marouan Badaoui",
+            "Muhammet Bahadir",
+            "Baris Karakus",
+            "Cihan Ege",
+            "Uwe Donner"
+        ],
+        "plot": "Acting upon the last orders of Master Chiu Yen, the warrior Kwan searches for a magician who will unleash his hidden powers. Kwan needs these powers to battle against the assassin who killed Chiu Yen.",
+        "rating": 10,
+        "release_year": "2022",
+        "title": "The Traveler"
+    },
+    {
+        "cast": [
+            "Daniel Rocha",
+            "Tony Lee",
+            "Luana Frez",
+            "Tristan Aronovich",
+            "Thiago Stechinni",
+            "Yasmin Thin Qi",
+            "Cléber Colombo",
+            "Paula Zago",
+            "Ravel Andrade",
+            "Natallia Rodrigues",
+            "Ângela Dip",
+            "Jean Paul Kinfoussia",
+            "Tamirys O'Hanna",
+            "Jimmy  Wong",
+            "Caroline Hirose",
+            "Rodrigo Arijon",
+            "Caio Mutai",
+            "Michelle Rodrigues",
+            "Eiryo Sumi Okura",
+            "David Wendefilm",
+            "Gutemberg Lins",
+            "Pedro Hórak"
+        ],
+        "plot": "The journey of Gabriel and Daniel, two brothers cursed by the Chinese mafia with its feared Three Generations Revenge, who have already reaped the life of their grandfather and their father. To survive, one of the brothers must learn the Smoke Style secrets, a little known Cannabis martial art, taught by a single master, high up in the mountains.",
+        "rating": 10,
+        "release_year": "2022",
+        "title": "The Smoke Master"
+    },
+    {
+        "cast": [
+            "John Arcilla",
+            "Dennis Trillo",
+            "Dante Rivero",
+            "Christopher de Leon",
+            "Lotlot De Leon",
+            "Leo Martinez",
+            "Joey Marquez",
+            "Eric Fructuoso",
+            "Vandolph",
+            "Agot Isidro",
+            "Dolly de Leon",
+            "Soliman Cruz",
+            "Lao Rodriguez",
+            "Andrea Brillantes",
+            "Ina Feleo",
+            "Megan Young",
+            "Levi Ignacio",
+            "Carlos Siguion-Reyna",
+            "Rayver Cruz",
+            "Wendell Ramos",
+            "Isabelle De Leon",
+            "Timmy Harn"
+        ],
+        "plot": "Inspired by true events, the film chronicles the story of Sisoy Salas, a corrupt journalist seeking justice for his colleagues, and convict Roman Rubio, a hired gun who is regularly brought out of prison to perform assassinations.",
+        "rating": 10,
+        "release_year": "2022",
+        "title": "On the Job: The Missing 8"
+    },
+    {
+        "cast": [
+            "Naoya Matsumoto",
+            "Hikaru Yoshida",
+            "Kasai Shinsuke"
+        ],
+        "plot": "Some time after Godzilla's battle with Hedorah, a new threat emerges. Gigan, a cyborg dinosaur from the outer space, confronts Godzilla while trying to invade the Earth.",
+        "rating": 10,
+        "release_year": "2022",
+        "title": "Fesu Gojira 3: Gaigan Raishū"
+    },
+    {
+        "cast": [
+            "Shogen",
+            "Ronnie Lazaro",
+            "Beauty Gonzalez",
+            "Kaho Minami",
+            "Jeffrey Rowe"
+        ],
+        "plot": "Nao Tsuyama, a disabled athlete, refuses to let his articifical leg hinder his dream to become a professional boxer. His remarkable journey takes him from Japan to the Philippines, and specifically the celebrated ‘Gensan’ quarter which has spawned worldwide stars such as the legendary Manny Pacquiao.",
+        "rating": 10,
+        "release_year": "2022",
+        "title": "Gensan Punch"
+    },
+    {
+        "cast": [
+            "Meto Ege",
+            "Marouan Badaoui",
+            "Silvio Scala",
+            "Muhammet Bahadir",
+            "Tadeusz Januszewski",
+            "Thanunjan Thavendran",
+            "Emre Kaya",
+            "Michelle Lazzara",
+            "Dennis Wagner",
+            "Emir Bozkara",
+            "Daniel Klatt",
+            "Musa Ulusan",
+            "Adil Ege",
+            "Stefan Job"
+        ],
+        "plot": "",
+        "rating": 10,
+        "release_year": "2022",
+        "title": "Das Spiel Endet"
+    },
+    {
+        "cast": [
+            "Momoyo Koyama",
+            "Suzuko Mimori",
+            "Hinata Sato",
+            "Maho Tomita",
+            "Haruki Iwata",
+            "Moeka Koizumi",
+            "Aina Aiba",
+            "Teru Ikuta",
+            "Ayasa Ito",
+            "Karin Takahashi",
+            "Mirai Hinata",
+            "Miyu Suenaga",
+            "Hekiru Shiina",
+            "Yume Nagatoshi",
+            "Kenjiro Tsuda"
+        ],
+        "plot": "Shōjo☆Kageki Revue Starlight ―The LIVE― #3 Growth is a stage play that was held in the Stellar Ball bar and concert hall at the Shinagawa Prince Hotel in Tokyo, Japan from July 27 to August 1, 2021. The play is directed by Akiko Kodama and written by Kaori Miura, and features a new story that immediately follows the events of Shōjo☆Kageki Revue Starlight -The LIVE ONLINE-.",
+        "rating": 10,
+        "release_year": "2021",
+        "title": "Revue Starlight ―The LIVE― #3 Growth"
+    },
+    {
+        "cast": [
+            "John Shepherd",
+            "Amerjit Deu",
+            "Alex Tetteh-Lartey",
+            "Frederik de Groot",
+            "Jill Ireland",
+            "Marnix Kappers",
+            "Kimberley Simms",
+            "Hans Kemna",
+            "Pim Vosmaer",
+            "Erik J. Meijer",
+            "Nanny Cijs",
+            "Ethel Smyth",
+            "Kerry Cederberg",
+            "Peter Blok",
+            "Rene Klijn",
+            "Iris Misset",
+            "Martin Versluys",
+            "Bart Römer",
+            "Edward Koldewijn",
+            "Deborah Smyth",
+            "Anis de Jong",
+            "Leontien de Rutjer",
+            "Nico Schapp",
+            "Elvira Wilson",
+            "Billy Graham",
+            "Bruni Heinke",
+            "Richard L. Watters"
+        ],
+        "plot": "Tim Devon was born out of wedlock and that his mother never told his father about him. Overwhelmed, Tim leaves Los Angeles in search of his father-armed with only a name and the city of Amsterdam as clues. When funds run out, Tim begins the downward spiral into a life of crime and drug use. He is encountered by a single caring person.",
+        "rating": 10,
+        "release_year": "1987",
+        "title": "Caught"
+    },
+    {
+        "cast": [
+            "Chen Hao",
+            "Peng Bo",
+            "Ding Haifeng",
+            "Jackson Liu",
+            "Chunyu Shanshan"
+        ],
+        "plot": "An anti-drug squad wage war on Golden Triangle drug traffickers.",
+        "rating": 10,
+        "release_year": "2022",
+        "title": "Drug Hunter"
+    },
+    {
+        "cast": [
+            "Johan Karlberg",
+            "Lily Ge",
+            "Rika Kishida",
+            "Tanuki Sugino",
+            "Nathalie Ng",
+            "Ge Jiaxin",
+            "Xie Yun Kun",
+            "Afifa",
+            "Angela En-Yu Lao"
+        ],
+        "plot": "Inspired by the classic movie Blade Runner and the book Do Androids Dream of Electric Sheep?  Jeter is an android hunter who is investigating a moon bus hijacking that crashed near the coast of Macau.  But when he becomes friends with a female android Marie he starts to second guess his job.",
+        "rating": 10,
+        "release_year": "2022",
+        "title": "The Edge Of Human"
+    },
+    {
+        "cast": [
+            "Gamefreak Pierre",
+            "Christopher Robinson",
+            "Techno Chris",
+            "Lukas Vantech"
+        ],
+        "plot": "",
+        "rating": 10,
+        "release_year": "2022",
+        "title": "OVERLOAD"
+    },
+    {
+        "cast": [
+            "Frédéric Perchet"
+        ],
+        "plot": "After a diving excursion in the middle of the ocean, Lindsey is viciously sexually assaulted by Bruce, her instructor. She fends him of and they fall overboard into the water. Bruce grabs her and sinks her to the depths of the ocean. In this spiral of violence, she has no way to breathe.",
+        "rating": 10,
+        "release_year": "2022",
+        "title": "Instinct"
+    },
+    {
+        "cast": [
+            "Kanon Nanaki",
+            "Minami Tsukui",
+            "Yoko Kadoyama",
+            "Yuka Kobayashi",
+            "Hotaru Nomoto",
+            "Karin Takahashi",
+            "Hekiru Shiina",
+            "Momoyo Koyama",
+            "Suzuko Mimori",
+            "Maho Tomita",
+            "Hinata Sato",
+            "Haruki Iwata",
+            "Moeka Koizumi",
+            "Aina Aiba",
+            "Teru Ikuta",
+            "Ayasa Ito",
+            "Yume Nagatoshi",
+            "Shiina Tanaka"
+        ],
+        "plot": "Revue Starlight ―The LIVE Seiran― BLUE GLITTER is a spin-off of Revue Starlight ―The LIVE― #2 Transition and features the students and staff of Seiran General Art Institute, which aims to win the national high school drama championship overall.  Koharu Yanagi, head of the drama major in the stage department, is impatient because the performance has not been decided.  The impatience spreads to deputy chiefs Ryo Minamifu and Hyonami Honami, and the gears of the three people slowly start to go haywire.",
+        "rating": 10,
+        "release_year": "2020",
+        "title": "Revue Starlight ―The LIVE Seiran― BLUE GLITTER"
+    },
+    {
+        "cast": [
+            "Matt Dickie",
+            "Tamara McLaughlin",
+            "Daniel Mulhall",
+            "Justin Gerardin",
+            "Jack McGirr",
+            "Harry Piaggio",
+            "Graham K. Furness",
+            "Gregory Kelly",
+            "Scott Young",
+            "James Topp",
+            "Timo Bardsley",
+            "Salvatore Merenda",
+            "Daniel Cordery",
+            "Andrew Dickens"
+        ],
+        "plot": "Australian renegade supercop Lieutenant Jangles goes on a mission to avenge his partner and save Brisbane from a sinister conspiracy involving kidnapped bodybuilders.",
+        "rating": 10,
+        "release_year": "2022",
+        "title": "Lieutenant Jangles"
+    }
+]
